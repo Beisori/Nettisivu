@@ -16,6 +16,12 @@ H3 {
 
 }
 
+img {
+    width: 100%;
+    height: auto;
+
+}
+
 * {box-sizing:border-box; }
 
 nav {
