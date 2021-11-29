@@ -56,7 +56,6 @@ body {
 
 a:hover {
     color:red;
-    transition: 1s;
     text-decoration: underline;
 }
 
